@@ -1,0 +1,1 @@
+# driver_installer_for_IdeapadSlim5_14IAH8_Windows_10
